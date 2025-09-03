@@ -1,3 +1,2 @@
 🔑 `FE9E9653384E20D267EB6FEE002CF8060CEF4C90`
-
-💬 npub1lax25lnrn8ud7se2chnnmg4ju9s56v8zj7dgwxqnv42su2e9xcys920sd6
+💬 `npub1lax25lnrn8ud7se2chnnmg4ju9s56v8zj7dgwxqnv42su2e9xcys920sd6`
